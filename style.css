@@ -1,0 +1,564 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+.nav1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    margin-top: 15px;
+}
+
+.list_item {
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+    text-decoration: none;
+    margin-right: 35px;
+}
+
+.sign {
+    font-weight: 400;
+    font-size: 16px;
+    color: #222222;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-right: 48px;
+}
+
+.btn1 {
+    background: #086CF9;
+    border-radius: 4px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px 24px;
+}
+
+/* -----------------------------------------header1 end--------------------------------------------- */
+/* -----------------------------------------sect2 start-------------------------------------------- */
+
+.sect1 {
+    background: url(./img/as.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 739px;
+}
+.Self {
+    margin-top: 199px;
+    font-weight: 700;
+    font-size: 56px;
+    color: #FFFFFF;
+}
+
+.Urna {
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 54px;
+}
+
+.Start {
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 16px 30px;
+    background: #086CF9;
+    border-radius: 4px;
+}
+
+/* ------------------------------------------sect1 end---------------------------------------------- */
+/* -----------------------------------------sect2 start--------------------------------------------- */
+
+.sect2 {
+    width: 100%;
+    height: 95px;
+}
+
+.cards {
+    margin: auto;
+    height: 190px;
+    background: #FFFFFF;
+    box-shadow: 0px 11px 35px rgba(0, 0, 0, 0.08);
+    border-radius: 4px;
+    position: relative;
+    bottom: 95px;
+}
+
+.card1 {
+    display: flex;
+}
+
+.Hug {
+    font-weight: 700;
+    font-size: 36px;
+    color: #222222;
+    margin-left: 24px;
+}
+
+.Courses {
+    font-weight: 400;
+    font-size: 16px;
+    color: #086CF9;
+    margin-left: 24px;
+}
+
+/* ------------------------------------------sect2 end--------------------------------------------- */
+/* -----------------------------------------sect3 start-------------------------------------------- */
+
+.sect3 {
+    margin-bottom: 128px;
+}
+
+.Find {
+    font-weight: 700;
+    font-size: 48px;
+    color: #222222;
+    margin-bottom: 24px;
+    margin-top: 128px;
+}
+
+.sit {
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    margin-bottom: 16px;
+}
+
+.dolor {
+    font-weight: 400;
+    font-size: 20px;
+    color: #333333;
+    margin-bottom: 32px;
+}
+
+.More {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 16px 32px;
+    background: #086CF9;
+    border-radius: 4px;
+}
+
+.pixels {
+    background: url(./img/pexels-monstera-6238005\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 595px;
+    height: 433px;
+    margin-top: 128px;
+}
+
+.btn2 {
+    width: 80px;
+    height: 80px;
+    background: #FFFFFF;
+    border-radius: 100%;
+}
+
+/* ------------------------------------------sect3 end--------------------------------------------- */
+/* -----------------------------------------sect4 start-------------------------------------------- */
+
+.sect4 {
+    margin-bottom: 128px;
+}
+
+.Work {
+    font-weight: 700;
+    font-size: 48px;
+    color: #222222;
+    margin-bottom: 12px;
+}
+
+.elit {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #555555;
+    margin-bottom: 50px;
+}
+
+.carps {
+    height: 215px;
+}
+
+.imdiv {
+    text-align: center;
+    margin-bottom: 27.2px;
+}
+
+.Online {
+    font-weight: 700;
+    font-size: 24px;
+    color: #222222;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.hendrer {
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #555555;
+}
+
+/* ------------------------------------------sect4 end--------------------------------------------- */
+/* -----------------------------------------sect5 start-------------------------------------------- */
+
+.sect5 {
+    background: #ECF4FF;
+}
+
+.All {
+    font-weight: 700;
+    font-size: 48px;
+    color: #000000;
+    margin-top: 60px;
+    margin-bottom: 12px;
+}
+
+.Lorem_ipsum {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #555555;
+    margin-bottom: 48px;
+}
+
+.cart1 {
+    background: #FFFFFF;
+    border-radius: 6px;
+    height: 483px;
+    width: 368px;
+    margin-bottom: 30px;
+}
+
+.head_img {
+    padding-top: 24px;
+    padding-left: 24px;
+}
+
+.df_div {
+    padding-top: 24px;
+    padding-left: 24px;
+    width: 343px;
+    margin-bottom: 45px;
+}
+
+.besh {
+    margin-top: 4px;
+}
+
+.df2_div {
+    width: 343px;
+    margin-bottom: 18px;
+}
+
+.Development {
+    font-weight: 700;
+    font-size: 24px;
+    color: #333333;
+    padding-left: 24px;
+}
+
+.one {
+    font-weight: 700;
+    font-size: 24px;
+    color: #086CF9;
+    padding-left: 24px;
+}
+
+.amet {
+    font-weight: 400;
+    font-size: 14px;
+    color: #555555;
+    padding-left: 24px;
+}
+
+.View {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    background: #086CF9;
+    border-radius: 6px;
+    padding: 16px 32px;
+    margin-top: 18px;
+    margin-bottom: 61px;
+}
+
+/* ------------------------------------------Quvonchbek end--------------------------------------------- */
+/* -------------------------------------------Azizbek start--------------------------------------------- */
+.section8 {
+    background-color: #FFFFFF;
+}
+
+.meet {
+    margin-top: 128px;
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 48px;
+    color: #222222;
+}
+
+.massa {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    text-align: center;
+    color: #444444;
+    margin-bottom: 48px;
+}
+
+.cara {
+    background: #FFFFFF;
+    box-shadow: 0px 11px 55px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    width: 368px;
+    height: 502px;
+    margin-bottom: 128px;
+}
+
+.cara-p {
+    font-weight: 700;
+    font-size: 24px;
+    margin-top: 16px;
+    margin-left: 32px;
+    color: #222222;
+}
+
+.caraimg {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.carap {
+    margin-top: 8px;
+    margin-left: 32px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #555555;
+    margin-bottom: 24px;
+}
+
+.carapic {
+    margin-left: 32px;
+}
+
+.av {
+    text-align: center;
+}
+
+.caraq {
+    background: #FFFFFF;
+    box-shadow: 0px 12px 45px rgba(0, 0, 0, 0.08);
+    border-radius: 6px;
+    width: 368px;
+    height: 390px;
+    margin-bottom: 128px;
+}
+
+.caraqp {
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    margin-left: 24px;
+    color: #222222;
+    margin-bottom: 20px;
+}
+
+.caraqpic {
+    margin-left: 24px;
+}
+
+.backi {
+    height: 247px;
+    background-color: #D3E5FE;
+    margin-bottom: 128px;
+}
+
+.number {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    margin-bottom: 16px;
+    color: #222222;
+}
+
+.teach {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 155%;
+    color: #555555;
+}
+
+.cari {
+    margin-top: 72px;
+    text-align: center;
+}
+
+/*---------------------------------------- section9 start----------------- */
+.ard {
+    background: #FFFFFF;
+    border: 0.5px solid #BFBFBF;
+    border-radius: 4px;
+    width: 368px;
+    height: 487px;
+    margin-bottom: 40px;
+}
+
+.ardh {
+    margin-top: 24px;
+    margin-left: 29px;
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 16px;
+    color: #222222;
+}
+
+.ardp {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 155%;
+    color: #444444;
+    margin-left: 29px;
+    margin-bottom: 24px;
+}
+
+.ardy {
+    font-weight: 400;
+    font-size: 16px;
+    color: #086CF9;
+    margin-left: 29px;
+}
+
+.btn8 {
+    background: #086CF9;
+    border-radius: 6px;
+    width: 124px;
+    height: 56px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-bottom: 128px;
+}
+.bar{
+    background: #FFFFFF;
+box-shadow: 0px 13px 45px rgba(0, 0, 0, 0.08);
+border-radius: 6px;
+width: 320px;
+height: 260px;
+margin-bottom: 128px;
+}
+.barp{
+    padding-top: 30px;
+    margin-left: 15px;
+    font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+color: #555555;
+margin-bottom: 20px;
+}
+.bari{
+    margin-left: 15px;
+}
+.large{
+    text-align: center;
+    background-color:#086CF9;
+    width: 939px;
+    height: 325px;
+    margin-bottom: 128px;
+}
+.largeh{
+    font-weight: 700;
+font-size: 36px;
+color: #FCFCFC;
+padding-top: 48px;
+padding-bottom: 12px;
+}
+.largep{
+    font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+text-align: center;
+color: #F9F9F9;
+padding-bottom: 40px;
+}
+.hardi{
+    margin-left: 130px;
+    background: #FFFFFF;
+border-radius: 4px;
+width: 538px;
+height: 64px;
+border: none;
+padding-left: 24px;
+}
+.btn9{
+    background: #086CF9;
+border-radius: 4px;
+width: 115px;
+height: 48px;
+border: none;
+font-weight: 400;
+font-size: 16px;
+text-align: center;
+color: #FFFFFF;
+position: relative;
+right: 130px;
+}
+/* ----------------------------------------footer start----------------------- */
+footer{
+    height: 421px;
+background: #D3E5FE;
+}
+.footh{
+    margin-top: 60px;
+    margin-bottom: 24px;
+    font-weight: 700;
+font-size: 30px;
+color: #222222;
+}
+.footp{
+    font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+color: #555555;
+margin-bottom: 32px;
+}
+span{
+    color: #086CF9;
+    margin-right: 15px;
+}
+.har{
+    font-weight: 400;
+font-size: 16px;
+color: #444444;
+margin-bottom: 16px;
+}
+.area{
+    font-weight: 400;
+font-size: 16px;
+line-height: 155%;
+color: #555555;
+margin-bottom: 16px;
+}
+.foot1{
+    margin-bottom: 16px;
+}
